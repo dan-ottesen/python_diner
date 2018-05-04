@@ -1,4 +1,4 @@
-mainMenu = ['Cheeseburger', 'Steak', 'BLT'];
+mainMenu = ['Cheeseburger', 'Steak', 'BLT']
 user = input('Which Entree would you like? We have a Cheeseburger, Steak, and a BLT.')
 
 total = 0
